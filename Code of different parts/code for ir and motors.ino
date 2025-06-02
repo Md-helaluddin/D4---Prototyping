@@ -37,15 +37,15 @@ void loop() {
 
   if (left == 0 && right == 0) {
     // Both sensors on black (line) - go straight
-    moveForward(65);
+    moveForward(70);
   }
   else if (left == 0 && right == 1) {
     // Left on black, right on white - veer left
-    turnLeft(90);
+    turnLeft(50);
   }
   else if (left == 1 && right == 0) {
     // Right on black, left on white - veer right
-    turnRight(90);
+    turnRight(50);
   }
   else {
     // Both sensors on white - maybe lost line, stop briefly
