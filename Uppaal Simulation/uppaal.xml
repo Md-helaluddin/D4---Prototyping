@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE nta PUBLIC '-//Uppaal Team//DTD Flat System 1.6//EN' 'http://www.it.uu.se/research/group/darts/uppaal/flat-1_6.dtd'>
+<nta>
+	<declaration>chan redSignal, blueSignal, fwdFromRight, rightTurn, fwdFromLeft, leftTurn, objUnclassified, backToLinePostOvertake, backToLinePostTurn, carStop, parkingDone;</declaration>
+	<template>
+		<name>RightSensor</name>
+		<location id="id0" x="320" y="40">
+			<name x="310" y="0">SensorOn</name>
+		</location>
+		<location id="id1" x="50" y="60">
+			<name x="40" y="20">SensorOff</name>
+		</location>
+		<init ref="id1"/>
+		<transition id="id2">
+			<source ref="id0"/>
+			<target ref="id1"/>
+			<label kind="synchronisation" x="100" y="120">fwdFromRight?</label>
+			<nail x="320" y="140"/>
+			<nail x="60" y="140"/>
+		</transition>
+		<transition id="id3">
+			<source ref="id1"/>
+			<target ref="id0"/>
+			<label kind="synchronisation" x="120" y="20">rightTurn?</label>
+		</transition>
+	</template>
+	<template>
+		<name>LeftSensor</name>
+		<location id="id4" x="-320" y="-80">
+			<name x="-330" y="-120">SensorOff</name>
+		</location>
+		<location id="id5" x="-50" y="-100">
+			<name x="-60" y="-140">SensorOn</name>
+		</location>
+		<init ref="id4"/>
+		<transition id="id6">
+			<source ref="id5"/>
+			<target ref="id4"/>
+			<label kind="synchronisation" x="-300" y="0">fwdFromLeft?</label>
+			<nail x="-50" y="20"/>
+			<nail x="-320" y="20"/>
+		</transition>
+		<transition id="id7">
+			<source ref="id4"/>
+			<target ref="id5"/>
+			<label kind="synchronisation" x="-280" y="-100">leftTurn?</label>
+		</transition>
+	</template>
+	<template>
+		<name>SmartCar</name>
+		<location id="id8" x="-460" y="-90">
+			<name x="-530" y="-130">InitState</name>
+		</location>
+		<location id="id9" x="200" y="-120">
+			<name x="220" y="-130">Drive</name>
+		</location>
+		<location id="id10" x="700" y="180">
+			<name x="670" y="200">RightTurn</name>
+		</location>
+		<location id="id11" x="-180" y="230">
+			<name x="-220" y="240">LeftTurn</name>
+		</location>
+		<location id="id12" x="710" y="-400">
+			<name x="700" y="-430">Uturn</name>
+		</location>
+		<location id="id13" x="-140" y="-400">
+			<name x="-150" y="-430">StartPark</name>
+		</location>
+		<location id="id14" x="240" y="-420">
+			<name x="230" y="-450">Overtake</name>
+		</location>
+		<location id="id15" x="-450" y="-420">
+			<name x="-460" y="-450">EndPark</name>
+		</location>
+		<location id="id16" x="550" y="-160">
+			<name x="540" y="-190">Idle</name>
+		</location>
+		<init ref="id8"/>
+		<transition id="id17">
+			<source ref="id8"/>
+			<target ref="id9"/>
+		</transition>
+		<transition id="id18">
+			<source ref="id16"/>
+			<target ref="id9"/>
+			<nail x="550" y="-90"/>
+		</transition>
+		<transition id="id19">
+			<source ref="id9"/>
+			<target ref="id16"/>
+			<label kind="synchronisation" x="380" y="-170">carStop!</label>
+		</transition>
+		<transition id="id20">
+			<source ref="id15"/>
+			<target ref="id8"/>
+		</transition>
+		<transition id="id21">
+			<source ref="id13"/>
+			<target ref="id15"/>
+			<label kind="synchronisation" x="-330" y="-390">parkingDone!</label>
+		</transition>
+		<transition id="id22">
+			<source ref="id12"/>
+			<target ref="id9"/>
+			<label kind="synchronisation" x="370" y="-410">backToLinePostTurn!</label>
+		</transition>
+		<transition id="id23">
+			<source ref="id14"/>
+			<target ref="id9"/>
+			<label kind="synchronisation" x="-40" y="-440">backToLinePostOvertake!</label>
+		</transition>
+		<transition id="id24">
+			<source ref="id11"/>
+			<target ref="id9"/>
+			<label kind="synchronisation" x="-300" y="-40">fwdFromLeft!</label>
+		</transition>
+		<transition id="id25">
+			<source ref="id10"/>
+			<target ref="id9"/>
+			<label kind="synchronisation" x="230" y="80">fwdFromRight!</label>
+		</transition>
+		<transition id="id26">
+			<source ref="id9"/>
+			<target ref="id12"/>
+			<label kind="synchronisation" x="460" y="-260">objUnclassified!</label>
+		</transition>
+		<transition id="id27">
+			<source ref="id9"/>
+			<target ref="id14"/>
+			<label kind="synchronisation" x="240" y="-320">redSignal!</label>
+		</transition>
+		<transition id="id28">
+			<source ref="id9"/>
+			<target ref="id13"/>
+			<label kind="synchronisation" x="-90" y="-250">blueSignal!</label>
+		</transition>
+		<transition id="id29">
+			<source ref="id9"/>
+			<target ref="id10"/>
+			<label kind="synchronisation" x="420" y="-20">rightTurn!</label>
+		</transition>
+		<transition id="id30">
+			<source ref="id9"/>
+			<target ref="id11"/>
+			<label kind="synchronisation" x="90" y="20">leftTurn!</label>
+		</transition>
+	</template>
+	<template>
+		<name>SensorUnit</name>
+		<location id="id31" x="-190" y="-60">
+			<name x="-320" y="-90">ObjectEval</name>
+		</location>
+		<location id="id32" x="0" y="-390">
+			<name x="-10" y="-430">FoundRed</name>
+		</location>
+		<location id="id33" x="320" y="-190">
+			<name x="310" y="-230">FoundBlue</name>
+		</location>
+		<location id="id34" x="240" y="80">
+			<name x="230" y="40">Unclassified</name>
+		</location>
+		<location id="id35" x="-520" y="-160">
+			<name x="-670" y="-180">DistanceCheck</name>
+		</location>
+		<location id="id36" x="-490" y="120">
+			<name x="-510" y="140">NoObj</name>
+		</location>
+		<location id="id37" x="-430" y="-60">
+			<name x="-490" y="-40">ObjSpotted</name>
+		</location>
+		<init ref="id35"/>
+		<transition id="id38">
+			<source ref="id33"/>
+			<target ref="id35"/>
+			<label kind="synchronisation" x="-720" y="210">parkingDone?</label>
+		</transition>
+		<transition id="id39">
+			<source ref="id34"/>
+			<target ref="id35"/>
+			<label kind="synchronisation" x="-340" y="90">backToLinePostTurn?</label>
+		</transition>
+		<transition id="id40">
+			<source ref="id32"/>
+			<target ref="id35"/>
+			<label kind="synchronisation" x="-550" y="-410">backToLinePostOvertake?</label>
+		</transition>
+		<transition id="id41">
+			<source ref="id37"/>
+			<target ref="id31"/>
+			<label kind="synchronisation" x="-380" y="-70">carStop?</label>
+		</transition>
+		<transition id="id42">
+			<source ref="id36"/>
+			<target ref="id35"/>
+		</transition>
+		<transition id="id43">
+			<source ref="id35"/>
+			<target ref="id36"/>
+		</transition>
+		<transition id="id44">
+			<source ref="id35"/>
+			<target ref="id37"/>
+		</transition>
+		<transition id="id45">
+			<source ref="id31"/>
+			<target ref="id34"/>
+			<label kind="synchronisation" x="-130" y="10">objUnclassified?</label>
+		</transition>
+		<transition id="id46">
+			<source ref="id31"/>
+			<target ref="id33"/>
+			<label kind="synchronisation" x="10" y="-160">blueSignal?</label>
+		</transition>
+		<transition id="id47">
+			<source ref="id31"/>
+			<target ref="id32"/>
+			<label kind="synchronisation" x="-80" y="-240">redSignal?</label>
+		</transition>
+	</template>
+	<system>
+SensorProcess = SensorUnit();
+MyVehicle = SmartCar();
+LeftProcess = LeftSensor();
+RightProcess = RightSensor();
+system MyVehicle, SensorProcess, LeftProcess, RightProcess;
+  </system>
+	<queries>
+		<query>
+			<formula/>
+			<comment/>
+		</query>
+	</queries>
+</nta>
