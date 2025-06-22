@@ -1,0 +1,660 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<Project Author="Efty02" CommentTableSortAscending="false" CommentTableSortColumn="Date Time" DocumentationType="html" ExportedFromDifferentName="false" ExporterVersion="16.1.1" Name="untitled" TextualAnalysisHighlightOptionCaseSensitive="false" UmlVersion="2.x" Xml_structure="simple">
+<ProjectInfo>
+<LogicalView/>
+<ProjectOptions>
+<DiagramOptions ActivityDiagramControlFlowDisplayOption="\u0000" ActivityDiagramShowActionCallBehaviorOption="\u0000" ActivityDiagramShowActivityEdgeWeight="true" ActivityDiagramShowDiagramFrame="true" ActivityDiagramShowObjectNodeType="true" ActivityDiagramShowPartitionHandle="\u0000" AddDataStoresExtEntitiesToDecomposedDFD="\u0002" AlignColumnProperties="true" AllowConfigShowInOutFlowButtonsInDataFlowDiagram="false" AutoGenerateRoleName="false" AutoSetAttributeType="true" AutoSetColumnType="true" AutoSyncRoleName="true" BlockDefinitionDiagramShowDiagramFrame="true" BpPoolLaneDefaultOrientation="\u0000" BpdAutoStretchPools="true" BpdConnectGatewayWithFlowObjectInDifferentPool="\u0000" BpdDefaultConnectionPointStyle="\u0001" BpdDefaultConnectorStyle="\u0005" BpdDhowIdOption="\u0000" BpdShowActivitiesTypeIcon="true" BusinessProcessDiagramDefaultLanguage="English" ClassVisibilityStyle="\u0001" ConnectorLabelOrientation="\u0000" CreateOneMessagePerDirection="true" DecisionMergeNodeConnectionPointStyle="\u0000" DefaultAssociationEndNavigable="\u0001" DefaultAssociationEndVisibility="\u0000" DefaultAssociationShowFromMultiplicity="true" DefaultAssociationShowFromRoleName="true" DefaultAssociationShowFromRoleVisibility="true" DefaultAssociationShowStereotypes="true" DefaultAssociationShowToMultiplicity="true" DefaultAssociationShowToRoleName="true" DefaultAssociationShowToRoleVisibility="true" DefaultAttributeMultiplicity="false" DefaultAttributeType="" DefaultAttributeVisibility="\u0001" DefaultClassAttributeMultiplicity="" DefaultClassAttributeMultiplicityOrdered="false" DefaultClassAttributeMultiplicityUnique="true" DefaultClassInterfaceBall="false" DefaultClassVisibility="\u0004" DefaultColumnType="integer(10)" DefaultConnectionPointStyle="\u0000" DefaultConnectorStyle="\u0001" DefaultDiagramBackground="rgb(255, 255, 255)" DefaultDisplayAsRobustnessAnalysisIcon="true" DefaultDisplayAsRobustnessAnalysisIconInSequenceDiagram="true" DefaultDisplayAsStereotypeIcon="false" DefaultFontColor="rgb(0, 0, 0)" DefaultGenDiagramTypeFromScenario="\u0000" DefaultHtmlDocFontColor="rgb(0, 0, 0)" DefaultLineJumps="\u0000" DefaultOperationVisibility="\u0004" DefaultParameterDirection="\u0002" DefaultShowAttributeInitialValue="true" DefaultShowAttributeOption="\u0001" DefaultShowClassMemberStereotype="true" DefaultShowDirection="false" DefaultShowMultiplicityConstraints="false" DefaultShowOperationOption="\u0001" DefaultShowOperationSignature="true" DefaultShowOrderedMultiplicityConstraint="true" DefaultShowOwnedAssociationEndAsAttribute="true" DefaultShowOwner="false" DefaultShowOwnerSkipModelInFullyQualifiedOwnerSignature="true" DefaultShowReceptionOption="\u0001" DefaultShowTemplateParameter="true" DefaultShowTypeOption="\u0001" DefaultShowUniqueMultiplicityConstraint="true" DefaultTypeOfSubProcess="\u0000" DefaultWrapClassMember="false" DrawTextAnnotationOpenRectangleFollowConnectorEnd="true" EnableMinimumSize="true" EntityColumnConstraintsPresentation="\u0002" ErdIndexNumOfDigits="-1" ErdIndexPattern="{table_name}" ErdIndexPatternSyncAutomatically="true" ErdManyToManyJoinTableDelimiter="_" EtlTableDiagramFontSize="14" ExpandedSubProcessDiagramContent="\u0001" ForeignKeyArrowHeadSize="\u0002" ForeignKeyConnectorEndPointAssociatedColumn="false" ForeignKeyNamePattern="{reference_table_name}{reference_column_name}" ForeignKeyNamePatternCaseHandling="0" ForeignKeyRelationshipPattern="{association_name}" FractionalMetrics="true" GeneralizationSetNotation="\u0001" GraphicAntiAliasing="true" GridDiagramFontSize="14" InteractionDiagramShowDiagramFrame="true" InternalBlockDiagramShowDiagramFrame="true" LineJumpSize="\u0000" ModelElementNameAlignment="\u0004" MultipleLineClassName="\u0001" PackageDiagramShowDiagramFrame="true" PaintConnectorThroughLabel="false" ParametricDiagramShowDiagramFrame="true" PointConnectorEndToCompartmentMember="true" PrimaryKeyConstraintPattern="" PrimaryKeyNamePattern="ID" RenameConstructorAfterRenameClass="\u0000" RenameExtensionPointToFollowExtendUseCase="\u0000" RequirementDiagramShowDiagramFrame="true" ShapeAutoFitSize="false" ShowActivationsInSequenceDiagram="true" ShowActivityStateNodeCaption="524287" ShowArtifactOption="\u0002" ShowAssociatedDiagramNameOfInteraction="false" ShowAssociationRoleStereotypes="true" ShowAttributeGetterSetter="false" ShowBSElementCode="true" ShowClassEmptyCompartments="false" ShowColumnDefaultValue="false" ShowColumnNullable="true" ShowColumnType="true" ShowColumnUniqueConstraintName="false" ShowColumnUserType="false" ShowComponentOption="\u0002" ShowExtraColumnProperties="true" ShowInOutFlowButtonsInDataFlowDiagram="false" ShowInOutFlowsInSubLevelDiagram="true" ShowMessageOperationSignatureForSequenceAndCommunicationDiagram="true" ShowMessageStereotypeInSequenceAndCommunicationDiagram="true" ShowNumberInCollaborationDiagram="true" ShowNumberInSequenceDiagram="true" ShowPackageNameStyle="\u0000" ShowParameterNameInOperationSignature="true" ShowRowGridLineWithinCompClassDiagram="false" ShowRowGridLineWithinCompERD="true" ShowRowGridLineWithinORMDiagram="true" ShowSchemaNameInERD="true" ShowTransitionTrigger="\u0000" ShowUseCaseExtensionPoint="true" ShowUseCaseID="false" SnapConnectorsAfterZoom="false" StateDiagramShowDiagramFrame="true" StateShowParametersOfInternalActivities="false" StateShowPrePostConditionAndBodyOfInternalActivities="true" StopTargetLifelineOnCreateDestroyMessage="\u0002" SupportHtmlTaggedValue="true" SupportMultipleLineAttribute="true" SuppressImpliedMultiplicityForAttributeAssociationEnd="false" SyncAssociationNameWithAssociationClass="\u0000" SyncAssociationRoleNameWithReferencedAttributeName="true" SyncDocOfInterfaceToSubClass="\u0000" TextAntiAliasing="true" TextualAnalysisGenerateRequirementTextOption="\u0001" TextualAnalysisHighlightOption="\u0000" UnnamedIndexPattern="{table_name}_{column_name}" UseCaseDiagramShowDiagramFrame="true" UseStateNameTab="false" WireflowDiagramDevice="0" WireflowDiagramShowActiveFlowLabel="true" WireflowDiagramTheme="0" WireflowDiagramWireflowShowPreview="true" WireflowDiagramWireflowShowScreenId="true">
+<DefaultHtmlDocFont Family="Dialog" Size="12" Style="0"/>
+</DiagramOptions>
+<GeneralOptions ConfirmSubLevelIdWithDot="true" QuickAddGlossaryTermParentModelId="default"/>
+<InstantReverseOptions CalculateGeneralizationAndRealization="false" CreateShapeForParentModelOfDraggedClassPackage="false" ReverseGetterSetter="\u0000" ReverseOperationImplementation="false" ShowPackageForNewDiagram="\u0001" ShowPackageOwner="\u0000"/>
+<ModelQualityOptions EnableModelQualityChecking="false"/>
+<ORMOptions AlterColumnUserType="true" DecimalPrecision="19" DecimalScale="0" ExportCommentToDatabase="true" FormattedSQL="false" GenerateAssociationWithAttribute="false" GenerateDiagramFromORMWizards="true" GetterSetterVisibility="\u0000" IdGeneratorType="native" MappingFileColumnOrder="\u0000" NumericToClassType="\u0000" QuoteSQLIdentifier="\u0000" RecreateShapeWhenSync="false" SyncToClassDiagramAttributeName="\u0001" SyncToClassDiagramAttributeNamePrefix="" SyncToClassDiagramAttributeNameSuffix="" SyncToClassDiagramClassName="\u0000" SyncToClassDiagramClassNamePrefix="" SyncToClassDiagramClassNameSuffix="" SyncToERDColumnName="\u0000" SyncToERDColumnNamePrefix="" SyncToERDColumnNameSuffix="" SyncToERDTableName="\u0004" SyncToERDTableNamePrefix="" SyncToERDTableNameSuffix="" SynchronizeDefaultValueToColumn="false" SynchronizeName="\u0002" TablePerSubclassFKMapping="\u0000" UpperCaseSQL="true" UseDefaultDecimal="true" WrappingServletRequest="\u0001"/>
+<RequirementDiagramOptions DefaultWrapMember="true" ShowAttributes="\u0001" SupportHTMLAttribute="false"/>
+<StateCodeEngineOptions AutoCreateInitialStateInStateDiagram="true" AutoCreateTransitionMethods="true" DefaultInitialStateLocationX="-1" DefaultInitialStateLocationY="-1" GenerateDebugMessage="false" GenerateSample="true" GenerateTryCatch="true" Language="\u0000" RegenerateTransitionMethods="false" SyncTransitionMethods="true"/>
+<WarningOptions CreateORMClassInDefaultPackage="true"/>
+<PORepository>
+<POUserIDFormats>
+<POUserIDFormat Digits="2" Guid="false" Id="bEehmemGAqAAjQs1" LastNumericValue="0" ModelType="BPMNElement" Prefix="BP" Suffix=""/>
+<POUserIDFormat Digits="2" Guid="false" Id="bEehmemGAqAAjQs2" LastNumericValue="0" ModelType="Actor" Prefix="AC" Suffix=""/>
+<POUserIDFormat Digits="2" Guid="false" Id="bEehmemGAqAAjQs3" LastNumericValue="0" ModelType="UseCase" Prefix="UC" Suffix=""/>
+<POUserIDFormat Digits="3" Guid="false" Id="bEehmemGAqAAjQs4" LastNumericValue="0" ModelType="Requirement" Prefix="REQ" Suffix=""/>
+<POUserIDFormat Digits="3" Guid="false" Id="bEehmemGAqAAjQs5" LastNumericValue="0" ModelType="BusinessRule" Prefix="BR" Suffix=""/>
+<POUserIDFormat Digits="-1" Guid="false" Id="bEehmemGAqAAjQs6" LastNumericValue="0" ModelType="BusinessProcessDiagram" Prefix="" Suffix=""/>
+</POUserIDFormats>
+</PORepository>
+</ProjectOptions>
+</ProjectInfo>
+<Models>
+<DataType BacklogActivityId="0" Documentation_plain="" Id="3fuhmemGAqAAjQfA" Name="boolean" PmAuthor="Efty02" PmCreateDateTime="2025-06-22T23:22:57.083" PmLastModified="2025-06-22T23:23:07.774" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+<DataType BacklogActivityId="0" Documentation_plain="" Id="g_uhmemGAqAAjQfB" Name="byte" PmAuthor="Efty02" PmCreateDateTime="2025-06-22T23:22:57.089" PmLastModified="2025-06-22T23:23:07.788" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+<DataType BacklogActivityId="0" Documentation_plain="" Id="g_uhmemGAqAAjQfC" Name="char" PmAuthor="Efty02" PmCreateDateTime="2025-06-22T23:22:57.089" PmLastModified="2025-06-22T23:23:07.788" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+<DataType BacklogActivityId="0" Documentation_plain="" Id="g_uhmemGAqAAjQfD" Name="double" PmAuthor="Efty02" PmCreateDateTime="2025-06-22T23:22:57.089" PmLastModified="2025-06-22T23:23:07.788" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+<DataType BacklogActivityId="0" Documentation_plain="" Id="g_uhmemGAqAAjQfE" Name="float" PmAuthor="Efty02" PmCreateDateTime="2025-06-22T23:22:57.089" PmLastModified="2025-06-22T23:23:07.788" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+<DataType BacklogActivityId="0" Documentation_plain="" Id="g_uhmemGAqAAjQfF" Name="int" PmAuthor="Efty02" PmCreateDateTime="2025-06-22T23:22:57.089" PmLastModified="2025-06-22T23:23:07.788" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+<DataType BacklogActivityId="0" Documentation_plain="" Id="g_uhmemGAqAAjQfG" Name="long" PmAuthor="Efty02" PmCreateDateTime="2025-06-22T23:22:57.089" PmLastModified="2025-06-22T23:23:07.788" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+<DataType BacklogActivityId="0" Documentation_plain="" Id="g_uhmemGAqAAjQfH" Name="short" PmAuthor="Efty02" PmCreateDateTime="2025-06-22T23:22:57.089" PmLastModified="2025-06-22T23:23:07.788" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+<DataType BacklogActivityId="0" Documentation_plain="" Id="g_uhmemGAqAAjQfI" Name="void" PmAuthor="Efty02" PmCreateDateTime="2025-06-22T23:22:57.089" PmLastModified="2025-06-22T23:23:07.788" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+<DataType BacklogActivityId="0" Documentation_plain="" Id="g_uhmemGAqAAjQfJ" Name="string" PmAuthor="Efty02" PmCreateDateTime="2025-06-22T23:22:57.089" PmLastModified="2025-06-22T23:23:07.788" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+<Stereotype Abstract="false" BacklogActivityId="0" BaseType="SysMLBlock" Documentation_plain="" IconPath="" Id="dxRhmemGAqAAjQs." Leaf="false" Name="block" PmAuthor="Efty02" PmCreateDateTime="2025-06-11T00:11:03.075" PmLastModified="2025-06-22T23:23:29.610" QualityReason_IsNull="true" QualityScore="-1" Root="false" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+<SysMLBlock Abstract="false" Active="false" BacklogActivityId="0" BusinessKeyMutable="true" BusinessModel="false" ConnectToCodeModel="1" Documentation_plain="" Encapsulated="false" FinalSpecialization="false" Id="VxRhmemGAqAAjQs9" Leaf="false" Name="Block" PmAuthor="Efty02" PmCreateDateTime="2025-06-22T23:23:15.818" PmLastModified="2025-06-23T01:31:28.914" QualityReason_IsNull="true" QualityScore="-1" Root="false" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public">
+<Stereotypes>
+<Stereotype Idref="dxRhmemGAqAAjQs." Name="block"/>
+</Stereotypes>
+<ModelChildren>
+<Attribute Abstract="false" Aggregation="Composited" AllowEmptyName="true" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" Documentation_plain="" HasGetter="false" HasSetter="false" Id="gcaZmemGAqAAjQtO" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="" PmAuthor="Efty02" PmCreateDateTime="2025-06-22T23:44:16.001" PmLastModified="2025-06-23T00:44:51.264" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="Robot Controller" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="private" Visible="true">
+<ToSimpleRelationships>
+<SysMLBindingConnector Idref="Phg1memGAqAAjQ1d" Name="C1"/>
+<SysMLBindingConnector Idref="VO5zmemGAqAAjRDv" Name="C2"/>
+<SysMLBindingConnector Idref="_gbzmemGAqAAjREY" Name="C3"/>
+<SysMLBindingConnector Idref="fqwLmemGAqAAjRE6" Name="C7"/>
+</ToSimpleRelationships>
+<MasterView>
+<SysMLPartProperty Idref="XsaZmemGAqAAjQtN" Name=""/>
+</MasterView>
+</Attribute>
+<SysMLConstraintProperty Aggregation="Composited" BacklogActivityId="0" DefaultValue="(IRLeft == LOW) || (IRRight == LOW)" Derived="false" DerivedUnion="false" Documentation_plain="" Id="F8pZmemGAqAAjQtu" IsID="false" Leaf="true" Multiplicity="Unspecified" Name="C1" PmAuthor="Efty02" PmCreateDateTime="2025-06-22T23:45:17.544" PmLastModified="2025-06-23T01:31:28.915" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Static="false" Type="LineFollowTrigger : Equation : lineDetected" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="Unspecified">
+<FromSimpleRelationships>
+<SysMLBindingConnector Idref="Phg1memGAqAAjQ1d" Name="C1"/>
+<SysMLBindingConnector Idref="bkpLmemGAqAAjRFg" Name="C1"/>
+</FromSimpleRelationships>
+<MasterView>
+<SysMLConstraintProperty Idref="Z8pZmemGAqAAjQtt" Name="C1"/>
+</MasterView>
+</SysMLConstraintProperty>
+<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" Documentation_plain="" HasGetter="false" HasSetter="false" Id="cXRVmemGAqAAjQz5" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="IR Left" PmAuthor="Efty02" PmCreateDateTime="2025-06-23T00:02:36.558" PmLastModified="2025-06-23T01:31:28.915" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="Boolean" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="private" Visible="true">
+<MasterView>
+<SysMLConstraintParameter Idref="cXRVmemGAqAAjQz4" Name="IR Left"/>
+</MasterView>
+</Attribute>
+<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" Documentation_plain="" HasGetter="false" HasSetter="false" Id="uRNVmemGAqAAjQ0Z" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="IR Right" PmAuthor="Efty02" PmCreateDateTime="2025-06-23T00:03:15.997" PmLastModified="2025-06-23T01:31:28.918" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="Boolean" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="private" Visible="true">
+<MasterView>
+<SysMLConstraintParameter Idref="uRNVmemGAqAAjQ0Y" Name="IR Right"/>
+</MasterView>
+</Attribute>
+<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" Documentation_plain="" HasGetter="false" HasSetter="false" Id="5qLVmemGAqAAjQ0t" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="Line Dtected" PmAuthor="Efty02" PmCreateDateTime="2025-06-23T00:03:47.943" PmLastModified="2025-06-23T01:31:28.921" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="Boolean" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="private" Visible="true">
+<MasterView>
+<SysMLConstraintParameter Idref="5qLVmemGAqAAjQ0s" Name="Line Dtected"/>
+</MasterView>
+</Attribute>
+<Attribute Abstract="false" Aggregation="Composited" AllowEmptyName="true" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" Documentation_plain="" HasGetter="false" HasSetter="false" Id="h041memGAqAAjQ1t" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="" PmAuthor="Efty02" PmCreateDateTime="2025-06-23T00:05:05.121" PmLastModified="2025-06-23T00:51:29.840" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="Sensors" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="private" Visible="true">
+<ToSimpleRelationships>
+<SysMLBindingConnector Idref="BsENmemGAqAAjQ3W" Name="C2"/>
+<SysMLBindingConnector Idref="bkpLmemGAqAAjRFg" Name="C1"/>
+<SysMLBindingConnector Idref="mdLLmemGAqAAjRF2" Name="C3"/>
+<SysMLBindingConnector Idref="B_YrmemGAqAAjRGe" Name="C4"/>
+<SysMLBindingConnector Idref="vQsrmemGAqAAjRGq" Name="C5"/>
+<SysMLBindingConnector Idref="PqRrmemGAqAAjRHI" Name="C6"/>
+</ToSimpleRelationships>
+<MasterView>
+<SysMLPartProperty Idref="B041memGAqAAjQ1s" Name=""/>
+</MasterView>
+</Attribute>
+<SysMLConstraintProperty Aggregation="Composited" BacklogActivityId="0" DefaultValue="(distance 6)" Derived="false" DerivedUnion="false" Documentation_plain="" Id="vMq1memGAqAAjQ16" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="C2" PmAuthor="Efty02" PmCreateDateTime="2025-06-23T00:06:02.557" PmLastModified="2025-06-23T00:43:13.835" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Static="false" Type="ObstacleCheck : Equation: Obstacle" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="Unspecified">
+<FromSimpleRelationships>
+<SysMLBindingConnector Idref="BsENmemGAqAAjQ3W" Name="C2"/>
+<SysMLBindingConnector Idref="VO5zmemGAqAAjRDv" Name="C2"/>
+</FromSimpleRelationships>
+<MasterView>
+<SysMLConstraintProperty Idref="vMq1memGAqAAjQ15" Name="C2"/>
+</MasterView>
+</SysMLConstraintProperty>
+<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" Documentation_plain="" HasGetter="false" HasSetter="false" Id="bgT1memGAqAAjQ2W" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="Distance" PmAuthor="Efty02" PmCreateDateTime="2025-06-23T00:08:00.630" PmLastModified="2025-06-23T00:13:32.533" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="Real" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="private" Visible="true">
+<MasterView>
+<SysMLConstraintParameter Idref="rgT1memGAqAAjQ2V" Name="Distance"/>
+</MasterView>
+</Attribute>
+<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" Documentation_plain="" HasGetter="false" HasSetter="false" Id="1gP1memGAqAAjQ2x" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="Obstacle" PmAuthor="Efty02" PmCreateDateTime="2025-06-23T00:08:41.579" PmLastModified="2025-06-23T00:14:12.220" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="Boolean" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="private" Visible="true">
+<MasterView>
+<SysMLConstraintParameter Idref="1gP1memGAqAAjQ2w" Name="Obstacle"/>
+</MasterView>
+</Attribute>
+<Attribute Abstract="false" Aggregation="Composited" AllowEmptyName="true" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" Documentation_plain="" HasGetter="false" HasSetter="false" Id="UKyNmemGAqAAjQ3w" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="" PmAuthor="Efty02" PmCreateDateTime="2025-06-23T00:10:16.970" PmLastModified="2025-06-23T00:57:30.579" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="Motor Controller" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="private" Visible="true">
+<ToSimpleRelationships>
+<SysMLBindingConnector Idref="G9YbmemGAqAAjRH0" Name="C4"/>
+<SysMLBindingConnector Idref="AaTbmemGAqAAjRIK" Name="C6"/>
+<SysMLBindingConnector Idref="IavbmemGAqAAjRIU" Name="C7"/>
+</ToSimpleRelationships>
+<MasterView>
+<SysMLPartProperty Idref="kKyNmemGAqAAjQ3v" Name=""/>
+</MasterView>
+</Attribute>
+<SysMLConstraintProperty Aggregation="Composited" BacklogActivityId="0" DefaultValue_IsNull="true" Derived="false" DerivedUnion="false" Documentation_plain="" Id="f4ctmemGAqAAjQ4u" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="C3" PmAuthor="Efty02" PmCreateDateTime="2025-06-23T00:14:17.854" PmLastModified="2025-06-23T00:47:54.019" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Static="false" Type="ColorDecision : Equation : f(color)" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="Unspecified">
+<FromSimpleRelationships>
+<SysMLBindingConnector Idref="_gbzmemGAqAAjREY" Name="C3"/>
+<SysMLBindingConnector Idref="mdLLmemGAqAAjRF2" Name="C3"/>
+</FromSimpleRelationships>
+<MasterView>
+<SysMLConstraintProperty Idref="v4ctmemGAqAAjQ4t" Name="C3"/>
+</MasterView>
+</SysMLConstraintProperty>
+<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" Documentation_plain="" HasGetter="false" HasSetter="false" Id="cCwdmemGAqAAjQ51" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="Color" PmAuthor="Efty02" PmCreateDateTime="2025-06-23T00:17:55.470" PmLastModified="2025-06-23T00:18:55.775" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="String" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="private" Visible="true">
+<MasterView>
+<SysMLConstraintParameter Idref="sCwdmemGAqAAjQ50" Name="Color"/>
+</MasterView>
+</Attribute>
+<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" Documentation_plain="" HasGetter="false" HasSetter="false" Id="E9sdmemGAqAAjQ6D" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="Action" PmAuthor="Efty02" PmCreateDateTime="2025-06-23T00:18:38.408" PmLastModified="2025-06-23T00:19:11.632" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="String" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="private" Visible="true">
+<MasterView>
+<SysMLConstraintParameter Idref="E9sdmemGAqAAjQ6C" Name="Action"/>
+</MasterView>
+</Attribute>
+<SysMLConstraintProperty Aggregation="Composited" BacklogActivityId="0" DefaultValue="Equation(color == 'blue')" Derived="false" DerivedUnion="false" Documentation_plain="" Id="hKWdmemGAqAAjQ6i" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="C4" PmAuthor="Efty02" PmCreateDateTime="2025-06-23T00:19:29.953" PmLastModified="2025-06-23T00:53:33.504" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Static="false" Type="PushThrough : Equation : pushCondition" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="Unspecified">
+<FromSimpleRelationships>
+<SysMLBindingConnector Idref="B_YrmemGAqAAjRGe" Name="C4"/>
+<SysMLBindingConnector Idref="G9YbmemGAqAAjRH0" Name="C4"/>
+</FromSimpleRelationships>
+<MasterView>
+<SysMLConstraintProperty Idref="hKWdmemGAqAAjQ6h" Name="C4"/>
+</MasterView>
+</SysMLConstraintProperty>
+<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" Documentation_plain="" HasGetter="false" HasSetter="false" Id="_CG9memGAqAAjQ8W" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="pushCondition" PmAuthor="Efty02" PmCreateDateTime="2025-06-23T00:23:43.679" PmLastModified="2025-06-23T00:28:09.426" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="Boolean" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="private" Visible="true">
+<MasterView>
+<SysMLConstraintParameter Idref="_CG9memGAqAAjQ8V" Name="pushCondition"/>
+</MasterView>
+</Attribute>
+<SysMLConstraintProperty Aggregation="Composited" BacklogActivityId="0" DefaultValue="(color == 'red')" Derived="false" DerivedUnion="false" Documentation_plain="" Id="mmuDmemGAqAAjQ9S" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="c5" PmAuthor="Efty02" PmCreateDateTime="2025-06-23T00:28:26.841" PmLastModified="2025-06-23T00:49:47.935" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Static="false" Type="AvoidObstacle : Equation : avoidCondition" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="Unspecified">
+<FromSimpleRelationships>
+<SysMLBindingConnector Idref="vQsrmemGAqAAjRGq" Name="C5"/>
+</FromSimpleRelationships>
+<MasterView>
+<SysMLConstraintProperty Idref="GmuDmemGAqAAjQ9R" Name="c5"/>
+</MasterView>
+</SysMLConstraintProperty>
+<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" Documentation_plain="" HasGetter="false" HasSetter="false" Id="UDajmemGAqAAjQ.b" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="AvoidCondition" PmAuthor="Efty02" PmCreateDateTime="2025-06-23T00:32:21.770" PmLastModified="2025-06-23T00:34:11.727" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="Boolean" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="private" Visible="true">
+<MasterView>
+<SysMLConstraintParameter Idref="UDajmemGAqAAjQ.a" Name="AvoidCondition"/>
+</MasterView>
+</Attribute>
+<SysMLConstraintProperty Aggregation="Composited" BacklogActivityId="0" DefaultValue="(distance > 0) && (distance < 300)" Derived="false" DerivedUnion="false" Documentation_plain="" Id="JkrjmemGAqAAjQ_g" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="C6" PmAuthor="Efty02" PmCreateDateTime="2025-06-23T00:34:26.276" PmLastModified="2025-06-23T00:57:30.580" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Static="false" Type="DistanceValidity :Equation :validDetect" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="Unspecified">
+<FromSimpleRelationships>
+<SysMLBindingConnector Idref="PqRrmemGAqAAjRHI" Name="C6"/>
+<SysMLBindingConnector Idref="AaTbmemGAqAAjRIK" Name="C6"/>
+</FromSimpleRelationships>
+<MasterView>
+<SysMLConstraintProperty Idref="JkrjmemGAqAAjQ_f" Name="C6"/>
+</MasterView>
+</SysMLConstraintProperty>
+<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" Documentation_plain="" HasGetter="false" HasSetter="false" Id="o9qTmemGAqAAjRAz" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="ValidDetect" PmAuthor="Efty02" PmCreateDateTime="2025-06-23T00:36:39.749" PmLastModified="2025-06-23T00:37:50.794" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="Boolean" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="private" Visible="true">
+<MasterView>
+<SysMLConstraintParameter Idref="I9qTmemGAqAAjRAy" Name="ValidDetect"/>
+</MasterView>
+</Attribute>
+<SysMLConstraintProperty Aggregation="Unspecified" BacklogActivityId="0" DefaultValue="f(lineDetected, obstacle)" Derived="false" DerivedUnion="false" Documentation_plain="" Id="Zl5TmemGAqAAjRBm" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="c7" PmAuthor="Efty02" PmCreateDateTime="2025-06-23T00:37:53.126" PmLastModified="2025-06-23T00:57:30.580" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Static="false" Type="MovementControl : Equation : motorAction" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="Unspecified">
+<FromSimpleRelationships>
+<SysMLBindingConnector Idref="fqwLmemGAqAAjRE6" Name="C7"/>
+<SysMLBindingConnector Idref="IavbmemGAqAAjRIU" Name="C7"/>
+</FromSimpleRelationships>
+<MasterView>
+<SysMLConstraintProperty Idref="Zl5TmemGAqAAjRBl" Name="c7"/>
+</MasterView>
+</SysMLConstraintProperty>
+<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" Documentation_plain="" HasGetter="false" HasSetter="false" Id="TRozmemGAqAAjRCr" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="LineDetected" PmAuthor="Efty02" PmCreateDateTime="2025-06-23T00:39:55.570" PmLastModified="2025-06-23T00:40:50.553" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="Boolean" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="private" Visible="true">
+<MasterView>
+<SysMLConstraintParameter Idref="TRozmemGAqAAjRCq" Name="LineDetected"/>
+</MasterView>
+</Attribute>
+<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" Documentation_plain="" HasGetter="false" HasSetter="false" Id="8yMzmemGAqAAjRDA" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="MotorAction" PmAuthor="Efty02" PmCreateDateTime="2025-06-23T00:40:23.247" PmLastModified="2025-06-23T00:41:12.199" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="String" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="private" Visible="true">
+<MasterView>
+<SysMLConstraintParameter Idref="8yMzmemGAqAAjRC_" Name="MotorAction"/>
+</MasterView>
+</Attribute>
+</ModelChildren>
+<SubDiagrams>
+<ParametricDiagram Idref="1GxhmemGAqAAjQtA"/>
+</SubDiagrams>
+</SysMLBlock>
+<ModelRelationshipContainer BacklogActivityId="0" Documentation_plain="" Id="6Fk1memGAqAAjQ1x" Name="relationships" PmAuthor="Efty02" PmCreateDateTime="2025-06-23T00:05:15.159" PmLastModified="2025-06-23T00:05:15.171" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true">
+<ModelChildren>
+<ModelRelationshipContainer BacklogActivityId="0" Documentation_plain="" Id="GFk1memGAqAAjQ1y" Name="SysMLBindingConnector" PmAuthor="Efty02" PmCreateDateTime="2025-06-23T00:05:15.160" PmLastModified="2025-06-23T00:57:30.568" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true">
+<ModelChildren>
+<SysMLBindingConnector BacklogActivityId="0" Documentation_plain="" From="F8pZmemGAqAAjQtu" Id="Phg1memGAqAAjQ1d" Leaf="false" Name="C1" PmAuthor="Efty02" PmCreateDateTime="2025-06-23T00:04:41.980" PmLastModified="2025-06-23T00:59:47.906" QualityReason_IsNull="true" QualityScore="-1" Static="false" To="gcaZmemGAqAAjQtO" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="Unspecified">
+<MasterView>
+<SysMLBindingConnector Idref="YRg1memGAqAAjQ1e" Name="C1"/>
+</MasterView>
+</SysMLBindingConnector>
+<SysMLBindingConnector BacklogActivityId="0" Documentation_plain="" From="vMq1memGAqAAjQ16" Id="BsENmemGAqAAjQ3W" Leaf="false" Name="C2" PmAuthor="Efty02" PmCreateDateTime="2025-06-23T00:09:31.488" PmLastModified="2025-06-23T01:02:24.596" QualityReason_IsNull="true" QualityScore="-1" Static="false" To="h041memGAqAAjQ1t" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="Unspecified">
+<MasterView>
+<SysMLBindingConnector Idref="tsENmemGAqAAjQ3X" Name="C2"/>
+</MasterView>
+</SysMLBindingConnector>
+<SysMLBindingConnector BacklogActivityId="0" Documentation_plain="" From="vMq1memGAqAAjQ16" Id="VO5zmemGAqAAjRDv" Leaf="false" Name="C2" PmAuthor="Efty02" PmCreateDateTime="2025-06-23T00:42:14.443" PmLastModified="2025-06-23T00:59:47.906" QualityReason_IsNull="true" QualityScore="-1" Static="false" To="gcaZmemGAqAAjQtO" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="Unspecified">
+<MasterView>
+<SysMLBindingConnector Idref="bO5zmemGAqAAjRDw" Name="C2"/>
+</MasterView>
+</SysMLBindingConnector>
+<SysMLBindingConnector BacklogActivityId="0" Documentation_plain="" From="f4ctmemGAqAAjQ4u" Id="_gbzmemGAqAAjREY" Leaf="false" Name="C3" PmAuthor="Efty02" PmCreateDateTime="2025-06-23T00:43:14.175" PmLastModified="2025-06-23T00:59:47.905" QualityReason_IsNull="true" QualityScore="-1" Static="false" To="gcaZmemGAqAAjQtO" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="Unspecified">
+<MasterView>
+<SysMLBindingConnector Idref="0QbzmemGAqAAjREZ" Name="C3"/>
+</MasterView>
+</SysMLBindingConnector>
+<SysMLBindingConnector BacklogActivityId="0" Documentation_plain="" From="Zl5TmemGAqAAjRBm" Id="fqwLmemGAqAAjRE6" Leaf="false" Name="C7" PmAuthor="Efty02" PmCreateDateTime="2025-06-23T00:44:08.702" PmLastModified="2025-06-23T00:59:47.895" QualityReason_IsNull="true" QualityScore="-1" Static="false" To="gcaZmemGAqAAjQtO" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="Unspecified">
+<MasterView>
+<SysMLBindingConnector Idref="MawLmemGAqAAjRE7" Name="C7"/>
+</MasterView>
+</SysMLBindingConnector>
+<SysMLBindingConnector BacklogActivityId="0" Documentation_plain="" From="F8pZmemGAqAAjQtu" Id="bkpLmemGAqAAjRFg" Leaf="false" Name="C1" PmAuthor="Efty02" PmCreateDateTime="2025-06-23T00:46:27.190" PmLastModified="2025-06-23T01:02:24.583" QualityReason_IsNull="true" QualityScore="-1" Static="false" To="h041memGAqAAjQ1t" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="Unspecified">
+<MasterView>
+<SysMLBindingConnector Idref="QUpLmemGAqAAjRFh" Name="C1"/>
+</MasterView>
+</SysMLBindingConnector>
+<SysMLBindingConnector BacklogActivityId="0" Documentation_plain="" From="f4ctmemGAqAAjQ4u" Id="mdLLmemGAqAAjRF2" Leaf="false" Name="C3" PmAuthor="Efty02" PmCreateDateTime="2025-06-23T00:47:30.970" PmLastModified="2025-06-23T01:00:56.439" QualityReason_IsNull="true" QualityScore="-1" Static="false" To="h041memGAqAAjQ1t" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="Unspecified">
+<MasterView>
+<SysMLBindingConnector Idref="ZdLLmemGAqAAjRF3" Name="C3"/>
+</MasterView>
+</SysMLBindingConnector>
+<SysMLBindingConnector BacklogActivityId="0" Documentation_plain="" From="hKWdmemGAqAAjQ6i" Id="B_YrmemGAqAAjRGe" Leaf="false" Name="C4" PmAuthor="Efty02" PmCreateDateTime="2025-06-23T00:48:45.792" PmLastModified="2025-06-23T01:01:27.451" QualityReason_IsNull="true" QualityScore="-1" Static="false" To="h041memGAqAAjQ1t" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="Unspecified">
+<MasterView>
+<SysMLBindingConnector Idref="N_YrmemGAqAAjRGf" Name="C4"/>
+</MasterView>
+</SysMLBindingConnector>
+<SysMLBindingConnector BacklogActivityId="0" Documentation_plain="" From="mmuDmemGAqAAjQ9S" Id="vQsrmemGAqAAjRGq" Leaf="false" Name="C5" PmAuthor="Efty02" PmCreateDateTime="2025-06-23T00:49:10.589" PmLastModified="2025-06-23T01:01:27.462" QualityReason_IsNull="true" QualityScore="-1" Static="false" To="h041memGAqAAjQ1t" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="Unspecified">
+<MasterView>
+<SysMLBindingConnector Idref="UwsrmemGAqAAjRGr" Name="C5"/>
+</MasterView>
+</SysMLBindingConnector>
+<SysMLBindingConnector BacklogActivityId="0" Documentation_plain="" From="JkrjmemGAqAAjQ_g" Id="PqRrmemGAqAAjRHI" Leaf="false" Name="C6" PmAuthor="Efty02" PmCreateDateTime="2025-06-23T00:50:37.820" PmLastModified="2025-06-23T01:03:16.579" QualityReason_IsNull="true" QualityScore="-1" Static="false" To="h041memGAqAAjQ1t" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="Unspecified">
+<MasterView>
+<SysMLBindingConnector Idref="EaRrmemGAqAAjRHJ" Name="C6"/>
+</MasterView>
+</SysMLBindingConnector>
+<SysMLBindingConnector BacklogActivityId="0" Documentation_plain="" From="hKWdmemGAqAAjQ6i" Id="G9YbmemGAqAAjRH0" Leaf="false" Name="C4" PmAuthor="Efty02" PmCreateDateTime="2025-06-23T00:53:06.904" PmLastModified="2025-06-23T01:03:50.020" QualityReason_IsNull="true" QualityScore="-1" Static="false" To="UKyNmemGAqAAjQ3w" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="Unspecified">
+<MasterView>
+<SysMLBindingConnector Idref="p9YbmemGAqAAjRH1" Name="C4"/>
+</MasterView>
+</SysMLBindingConnector>
+<SysMLBindingConnector BacklogActivityId="0" Documentation_plain="" From="JkrjmemGAqAAjQ_g" Id="AaTbmemGAqAAjRIK" Leaf="false" Name="C6" PmAuthor="Efty02" PmCreateDateTime="2025-06-23T00:56:05.504" PmLastModified="2025-06-23T01:04:36.631" QualityReason_IsNull="true" QualityScore="-1" Static="false" To="UKyNmemGAqAAjQ3w" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="Unspecified">
+<MasterView>
+<SysMLBindingConnector Idref="MaTbmemGAqAAjRIL" Name="C6"/>
+</MasterView>
+</SysMLBindingConnector>
+<SysMLBindingConnector BacklogActivityId="0" Documentation_plain="" From="Zl5TmemGAqAAjRBm" Id="IavbmemGAqAAjRIU" Leaf="false" Name="C7" PmAuthor="Efty02" PmCreateDateTime="2025-06-23T00:56:50.564" PmLastModified="2025-06-23T01:04:56.781" QualityReason_IsNull="true" QualityScore="-1" Static="false" To="UKyNmemGAqAAjQ3w" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="Unspecified">
+<MasterView>
+<SysMLBindingConnector Idref="CavbmemGAqAAjRIV" Name="C7"/>
+</MasterView>
+</SysMLBindingConnector>
+</ModelChildren>
+</ModelRelationshipContainer>
+</ModelChildren>
+</ModelRelationshipContainer>
+<ShapeEditorShape BacklogActivityId="0" Documentation_plain="" Id="K1NHmemGAqAAjRN7" Name="" PmAuthor="Efty02" PmCreateDateTime="2025-06-23T01:04:26.580" PmLastModified="2025-06-23T01:04:36.641" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true">
+<MasterView>
+<SECurveShape Idref="K1NHmemGAqAAjRN6" Name=""/>
+</MasterView>
+</ShapeEditorShape>
+</Models>
+<Diagrams>
+<ParametricDiagram AlignToGrid="false" AutoFitShapesSize="false" ConnectionPointStyle="0" ConnectorLabelOrientation="0" ConnectorLineJumps="0" ConnectorLineJumpsSize="0" ConnectorModelElementNameAlignment="4" ConnectorStyle="1" ConstraintPropertyDisplayOption="1" DiagramBackground="rgb(255, 255, 255)" Editable="true" FilterByViewpointLegend="true" FollowDiagramParentElement="true" GridColor="rgb(192, 192, 192)" GridHeight="10" GridVisible="false" GridWidth="10" Height="1237" HideConnectorIfFromToIsHidden="0" HideEmptyTaggedValues="false" Id="1GxhmemGAqAAjQtA" ImageHeight="0" ImageScale="1.0" ImageWidth="0" InitializeDiagramForCreate="true" Maximized="true" ModelElementNameAlignment="4" Name="Autonomous Robot Car" PaintConnectorThroughLabel="1" ParentModel="VxRhmemGAqAAjQs9" PmAuthor="Efty02" PmCreateDateTime="2025-06-22T23:23:19.211" PmLastModified="2025-06-23T01:39:43.990" PointConnectorEndToCompartmentMember="true" QualityScore="-1" RequestFitSizeWithPromptUser="false" RequestValidateSnapToGrid="false" ShapePresentationOption="0" ShowActivityStateNodeCaption="524287" ShowAllocatedFrom="true" ShowAllocatedTo="true" ShowColorLegend="false" ShowConnectorLegend="false" ShowConnectorName="0" ShowConstraints="false" ShowDefaultPackage="false" ShowDiagramFrame="true" ShowInformationItemOption="2" ShowPMAuthor="false" ShowPMDifficulty="false" ShowPMDiscipline="false" ShowPMIteration="false" ShowPMPhase="false" ShowPMPriority="false" ShowPMStatus="false" ShowPMVersion="false" ShowPackageNameStyle="0" ShowPropertiesInPathnameDotNotation="false" ShowRelationshipConstraintExpression="false" ShowShapeLegend="false" ShowShapeStereotypeIconName="true" ShowStereotypes="true" ShowTaggedValues="false" TeamworkCreateDateTime="0" TrimmedHeight="0" TrimmedWidth="0" Width="2534" X="0" Y="0" ZoomRatio="1.4" _globalPaletteOption="true" documentation="<html> <head> <style type="text/css"> <!-- body { color: #000000; font-family: Dialog; font-size: 12px } --> </style> </head> <body> <p> </p> </body> </html> ">
+<Shapes>
+<SysMLPartProperty Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" CoverConnector="false" CreatorDiagramType="ParametricDiagram" Foreground="rgb(0, 0, 0)" Height="40" Id="XsaZmemGAqAAjQtN" MetaModelElement="gcaZmemGAqAAjQtO" Model="gcaZmemGAqAAjQtO" ModelElementNameAlignment="9" Name="" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowInPathnameDotNotation="0" ShowStereotypeIconName="0" ShowTaggedValues="0" Width="108" X="217" Y="171" ZOrder="46">
+<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+<Stroke/>
+</Line>
+<Caption Height="20" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="InsideNorth" Visible="true" Width="109" X="0" Y="0"/>
+<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+</SysMLPartProperty>
+<SysMLConstraintProperty Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" CoverConnector="false" DisplayOption="0" Foreground="rgb(0, 0, 0)" Height="40" Id="Z8pZmemGAqAAjQtt" MetaModelElement="F8pZmemGAqAAjQtu" Model="F8pZmemGAqAAjQtu" ModelElementNameAlignment="9" Name="C1" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowStereotypeIconName="0" ShowTaggedValues="0" Width="300" X="426" Y="165" ZOrder="44">
+<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+<Stroke/>
+</Line>
+<Caption Height="40" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="Center" Visible="true" Width="300" X="0" Y="0"/>
+<DiagramElementChildren>
+<SysMLConstraintParameter Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" CoverConnector="false" Foreground="rgb(0, 0, 0)" Height="12" Id="cXRVmemGAqAAjQz4" MetaModelElement="cXRVmemGAqAAjQz5" Model="cXRVmemGAqAAjQz5" ModelElementNameAlignment="9" Name="IR Left" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowStereotypeIconName="0" ShowTaggedValues="0" Width="12" X="714" Y="165" ZOrder="42">
+<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+<Stroke/>
+</Line>
+<Caption Height="15" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="103" X="725" Y="159"/>
+<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+</SysMLConstraintParameter>
+<SysMLConstraintParameter Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" CoverConnector="false" Foreground="rgb(0, 0, 0)" Height="12" Id="uRNVmemGAqAAjQ0Y" MetaModelElement="uRNVmemGAqAAjQ0Z" Model="uRNVmemGAqAAjQ0Z" ModelElementNameAlignment="9" Name="IR Right" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowStereotypeIconName="0" ShowTaggedValues="0" Width="12" X="714" Y="180" ZOrder="40">
+<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+<Stroke/>
+</Line>
+<Caption Height="15" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="110" X="719" Y="176"/>
+<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+</SysMLConstraintParameter>
+<SysMLConstraintParameter Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" CoverConnector="false" Foreground="rgb(0, 0, 0)" Height="12" Id="5qLVmemGAqAAjQ0s" MetaModelElement="5qLVmemGAqAAjQ0t" Model="5qLVmemGAqAAjQ0t" ModelElementNameAlignment="9" Name="Line Dtected" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowStereotypeIconName="0" ShowTaggedValues="0" Width="12" X="714" Y="194" ZOrder="38">
+<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+<Stroke/>
+</Line>
+<Caption Height="15" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="133" X="722" Y="194"/>
+<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+</SysMLConstraintParameter>
+</DiagramElementChildren>
+<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+</SysMLConstraintProperty>
+<SysMLPartProperty Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" CoverConnector="false" CreatorDiagramType="ParametricDiagram" Foreground="rgb(0, 0, 0)" Height="40" Id="B041memGAqAAjQ1s" MetaModelElement="h041memGAqAAjQ1t" Model="h041memGAqAAjQ1t" ModelElementNameAlignment="9" Name="" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowInPathnameDotNotation="0" ShowStereotypeIconName="0" ShowTaggedValues="0" Width="108" X="228" Y="383" ZOrder="36">
+<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+<Stroke/>
+</Line>
+<Caption Height="20" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="InsideNorth" Visible="true" Width="109" X="0" Y="0"/>
+<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+</SysMLPartProperty>
+<SysMLConstraintProperty Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" CoverConnector="false" DisplayOption="0" Foreground="rgb(0, 0, 0)" Height="40" Id="vMq1memGAqAAjQ15" MetaModelElement="vMq1memGAqAAjQ16" Model="vMq1memGAqAAjQ16" ModelElementNameAlignment="9" Name="C2" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowStereotypeIconName="0" ShowTaggedValues="0" Width="300" X="426" Y="262" ZOrder="34">
+<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+<Stroke/>
+</Line>
+<Caption Height="40" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="Center" Visible="true" Width="300" X="0" Y="0"/>
+<DiagramElementChildren>
+<SysMLConstraintParameter Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" CoverConnector="false" Foreground="rgb(0, 0, 0)" Height="12" Id="rgT1memGAqAAjQ2V" MetaModelElement="bgT1memGAqAAjQ2W" Model="bgT1memGAqAAjQ2W" ModelElementNameAlignment="9" Name="Distance" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowStereotypeIconName="0" ShowTaggedValues="0" Width="12" X="711" Y="262" ZOrder="32">
+<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+<Stroke/>
+</Line>
+<Caption Height="16" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="96" X="739" Y="259"/>
+<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+</SysMLConstraintParameter>
+<SysMLConstraintParameter Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" CoverConnector="false" Foreground="rgb(0, 0, 0)" Height="12" Id="1gP1memGAqAAjQ2w" MetaModelElement="1gP1memGAqAAjQ2x" Model="1gP1memGAqAAjQ2x" ModelElementNameAlignment="9" Name="Obstacle" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowStereotypeIconName="0" ShowTaggedValues="0" Width="12" X="713" Y="288" ZOrder="30">
+<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+<Stroke/>
+</Line>
+<Caption Height="16" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="114" X="742" Y="288"/>
+<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+</SysMLConstraintParameter>
+</DiagramElementChildren>
+<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+</SysMLConstraintProperty>
+<SysMLPartProperty Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" CoverConnector="false" CreatorDiagramType="ParametricDiagram" Foreground="rgb(0, 0, 0)" Height="40" Id="kKyNmemGAqAAjQ3v" MetaModelElement="UKyNmemGAqAAjQ3w" Model="UKyNmemGAqAAjQ3w" ModelElementNameAlignment="9" Name="" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowInPathnameDotNotation="0" ShowStereotypeIconName="0" ShowTaggedValues="0" Width="108" X="220" Y="601" ZOrder="28">
+<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+<Stroke/>
+</Line>
+<Caption Height="20" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="InsideNorth" Visible="true" Width="109" X="0" Y="0"/>
+<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+</SysMLPartProperty>
+<SysMLConstraintProperty Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" CoverConnector="false" DisplayOption="0" Foreground="rgb(0, 0, 0)" Height="40" Id="v4ctmemGAqAAjQ4t" MetaModelElement="f4ctmemGAqAAjQ4u" Model="f4ctmemGAqAAjQ4u" ModelElementNameAlignment="9" Name="C3" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowStereotypeIconName="0" ShowTaggedValues="0" Width="300" X="426" Y="343" ZOrder="26">
+<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+<Stroke/>
+</Line>
+<Caption Height="40" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="Center" Visible="true" Width="300" X="0" Y="0"/>
+<DiagramElementChildren>
+<SysMLConstraintParameter Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" CoverConnector="false" Foreground="rgb(0, 0, 0)" Height="12" Id="sCwdmemGAqAAjQ50" MetaModelElement="cCwdmemGAqAAjQ51" Model="cCwdmemGAqAAjQ51" ModelElementNameAlignment="9" Name="Color" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowStereotypeIconName="0" ShowTaggedValues="0" Width="12" X="713" Y="343" ZOrder="24">
+<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+<Stroke/>
+</Line>
+<Caption Height="16" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="85" X="737" Y="339"/>
+<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+</SysMLConstraintParameter>
+<SysMLConstraintParameter Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" CoverConnector="false" Foreground="rgb(0, 0, 0)" Height="12" Id="E9sdmemGAqAAjQ6C" MetaModelElement="E9sdmemGAqAAjQ6D" Model="E9sdmemGAqAAjQ6D" ModelElementNameAlignment="9" Name="Action" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowStereotypeIconName="0" ShowTaggedValues="0" Width="12" X="713" Y="366" ZOrder="22">
+<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+<Stroke/>
+</Line>
+<Caption Height="16" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="90" X="733" Y="368"/>
+<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+</SysMLConstraintParameter>
+</DiagramElementChildren>
+<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+</SysMLConstraintProperty>
+<SysMLConstraintProperty Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" CoverConnector="false" DisplayOption="0" Foreground="rgb(0, 0, 0)" Height="40" Id="hKWdmemGAqAAjQ6h" MetaModelElement="hKWdmemGAqAAjQ6i" Model="hKWdmemGAqAAjQ6i" ModelElementNameAlignment="9" Name="C4" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowStereotypeIconName="0" ShowTaggedValues="0" Width="300" X="425" Y="447" ZOrder="20">
+<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+<Stroke/>
+</Line>
+<Caption Height="40" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="Center" Visible="true" Width="300" X="0" Y="0"/>
+<DiagramElementChildren>
+<SysMLConstraintParameter Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" CoverConnector="false" Foreground="rgb(0, 0, 0)" Height="12" Id="_CG9memGAqAAjQ8V" MetaModelElement="_CG9memGAqAAjQ8W" Model="_CG9memGAqAAjQ8W" ModelElementNameAlignment="9" Name="pushCondition" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowStereotypeIconName="0" ShowTaggedValues="0" Width="12" X="713" Y="462" ZOrder="18">
+<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+<Stroke/>
+</Line>
+<Caption Height="16" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="140" X="727" Y="460"/>
+<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+</SysMLConstraintParameter>
+</DiagramElementChildren>
+<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+</SysMLConstraintProperty>
+<SysMLConstraintProperty Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" CoverConnector="false" DisplayOption="0" Foreground="rgb(0, 0, 0)" Height="40" Id="GmuDmemGAqAAjQ9R" MetaModelElement="mmuDmemGAqAAjQ9S" Model="mmuDmemGAqAAjQ9S" ModelElementNameAlignment="9" Name="c5" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowStereotypeIconName="0" ShowTaggedValues="0" Width="300" X="425" Y="552" ZOrder="16">
+<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+<Stroke/>
+</Line>
+<Caption Height="40" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="Center" Visible="true" Width="300" X="0" Y="0"/>
+<DiagramElementChildren>
+<SysMLConstraintParameter Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" CoverConnector="false" Foreground="rgb(0, 0, 0)" Height="12" Id="UDajmemGAqAAjQ.a" MetaModelElement="UDajmemGAqAAjQ.b" Model="UDajmemGAqAAjQ.b" ModelElementNameAlignment="9" Name="AvoidCondition" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowStereotypeIconName="0" ShowTaggedValues="0" Width="12" X="713" Y="568" ZOrder="14">
+<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+<Stroke/>
+</Line>
+<Caption Height="16" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="144" X="729" Y="563"/>
+<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+</SysMLConstraintParameter>
+</DiagramElementChildren>
+<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+</SysMLConstraintProperty>
+<SysMLConstraintProperty Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" CoverConnector="false" DisplayOption="0" Foreground="rgb(0, 0, 0)" Height="40" Id="JkrjmemGAqAAjQ_f" MetaModelElement="JkrjmemGAqAAjQ_g" Model="JkrjmemGAqAAjQ_g" ModelElementNameAlignment="9" Name="C6" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowStereotypeIconName="0" ShowTaggedValues="0" Width="300" X="425" Y="636" ZOrder="12">
+<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+<Stroke/>
+</Line>
+<Caption Height="40" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="Center" Visible="true" Width="300" X="0" Y="0"/>
+<DiagramElementChildren>
+<SysMLConstraintParameter Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" CoverConnector="false" Foreground="rgb(0, 0, 0)" Height="12" Id="I9qTmemGAqAAjRAy" MetaModelElement="o9qTmemGAqAAjRAz" Model="o9qTmemGAqAAjRAz" ModelElementNameAlignment="9" Name="ValidDetect" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowStereotypeIconName="0" ShowTaggedValues="0" Width="12" X="713" Y="648" ZOrder="10">
+<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+<Stroke/>
+</Line>
+<Caption Height="16" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="127" X="730" Y="649"/>
+<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+</SysMLConstraintParameter>
+</DiagramElementChildren>
+<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+</SysMLConstraintProperty>
+<SysMLConstraintProperty Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" CoverConnector="false" DisplayOption="0" Foreground="rgb(0, 0, 0)" Height="40" Id="Zl5TmemGAqAAjRBl" MetaModelElement="Zl5TmemGAqAAjRBm" Model="Zl5TmemGAqAAjRBm" ModelElementNameAlignment="9" Name="c7" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowStereotypeIconName="0" ShowTaggedValues="0" Width="300" X="425" Y="721" ZOrder="8">
+<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+<Stroke/>
+</Line>
+<Caption Height="40" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="Center" Visible="true" Width="300" X="0" Y="0"/>
+<DiagramElementChildren>
+<SysMLConstraintParameter Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" CoverConnector="false" Foreground="rgb(0, 0, 0)" Height="12" Id="TRozmemGAqAAjRCq" MetaModelElement="TRozmemGAqAAjRCr" Model="TRozmemGAqAAjRCr" ModelElementNameAlignment="9" Name="LineDetected" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowStereotypeIconName="0" ShowTaggedValues="0" Width="12" X="713" Y="720" ZOrder="6">
+<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+<Stroke/>
+</Line>
+<Caption Height="16" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="136" X="741" Y="719"/>
+<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+</SysMLConstraintParameter>
+<SysMLConstraintParameter Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" CoverConnector="false" Foreground="rgb(0, 0, 0)" Height="12" Id="8yMzmemGAqAAjRC_" MetaModelElement="8yMzmemGAqAAjRDA" Model="8yMzmemGAqAAjRDA" ModelElementNameAlignment="9" Name="MotorAction" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowStereotypeIconName="0" ShowTaggedValues="0" Width="12" X="713" Y="748" ZOrder="4">
+<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+<Stroke/>
+</Line>
+<Caption Height="16" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="117" X="737" Y="747"/>
+<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+</SysMLConstraintParameter>
+</DiagramElementChildren>
+<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+</SysMLConstraintProperty>
+<SECurveShape ActConnector="true" Alpha="0.0" Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" CoverConnector="false" DrawBy="7" Foreground="rgb(0, 0, 0)" Height="210" Id="K1NHmemGAqAAjRN6" MetaModelElement="K1NHmemGAqAAjRN7" Model="K1NHmemGAqAAjRN7" ModelElementNameAlignment="9" Name="" NotUseVisibleBounds="false" ObjectId="0" ObjectType="0" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" RotateAngle="0.0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowStereotypeIconName="0" ShowTaggedValues="0" Width="12" X="221" Y="201" ZOrder="2">
+<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+<Stroke/>
+</Line>
+<Caption Height="40" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="Invisible" Visible="false" Width="40" X="0" Y="0"/>
+<FillColor Color="rgba(122, 207, 245, 0.0)" Style="1" Transparency="100" Type="1"/>
+</SECurveShape>
+</Shapes>
+<Connectors>
+<SysMLBindingConnector Background="rgb(122, 207, 245)" ConnectorLabelOrientation="4" ConnectorLineJumps="4" ConnectorStyle="Follow Diagram" CreatorDiagramType="ParametricDiagram" Foreground="rgb(0, 0, 0)" From="Z8pZmemGAqAAjQtt" FromConnectType="0" FromPinType="1" FromShapeXDiff="0" FromShapeYDiff="0" Height="71" Id="YRg1memGAqAAjQ1e" MetaModelElement="Phg1memGAqAAjQ1d" Model="Phg1memGAqAAjQ1d" ModelElementNameAlignment="9" Name="C1" PaintThroughLabel="2" RequestRebuild="false" RequestRebuildFromEnd="false" RequestRebuildToEnd="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" Selectable="true" ShowConnectorName="2" To="XsaZmemGAqAAjQtN" ToConnectType="0" ToPinType="1" ToShapeXDiff="0" ToShapeYDiff="0" UseFromShapeCenter="true" UseToShapeCenter="true" Width="171" X="290" Y="142" ZOrder="48">
+<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+<Stroke/>
+</Line>
+<Caption Height="15" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="35" X="358" Y="163"/>
+<Points>
+<Point X="425.0" Y="178.0"/>
+<Point X="325.0" Y="178.0"/>
+</Points>
+</SysMLBindingConnector>
+<SysMLBindingConnector Background="rgb(122, 207, 245)" ConnectorLabelOrientation="4" ConnectorLineJumps="4" ConnectorStyle="Follow Diagram" CreatorDiagramType="ParametricDiagram" Foreground="rgb(0, 0, 0)" From="vMq1memGAqAAjQ15" FromConnectType="0" FromPinType="1" FromShapeXDiff="0" FromShapeYDiff="0" Height="199" Id="tsENmemGAqAAjQ3X" MetaModelElement="BsENmemGAqAAjQ3W" Model="BsENmemGAqAAjQ3W" ModelElementNameAlignment="9" Name="C2" PaintThroughLabel="2" RequestRebuild="false" RequestRebuildFromEnd="false" RequestRebuildToEnd="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" Selectable="true" ShowConnectorName="2" To="B041memGAqAAjQ1s" ToConnectType="0" ToPinType="1" ToShapeXDiff="0" ToShapeYDiff="0" UseFromShapeCenter="true" UseToShapeCenter="true" Width="159" X="302" Y="246" ZOrder="50">
+<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+<Stroke/>
+</Line>
+<Caption Height="15" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="35" X="359" Y="404"/>
+<Points>
+<Point X="425.0" Y="282.0"/>
+<Point X="397.0" Y="282.0"/>
+<Point X="397.0" Y="410.0"/>
+<Point X="337.0" Y="410.0"/>
+</Points>
+</SysMLBindingConnector>
+<SysMLBindingConnector Background="rgb(122, 207, 245)" ConnectorLabelOrientation="4" ConnectorLineJumps="4" ConnectorStyle="Follow Diagram" CreatorDiagramType="ParametricDiagram" Foreground="rgb(0, 0, 0)" From="vMq1memGAqAAjQ15" FromConnectType="0" FromPinType="1" FromShapeXDiff="0" FromShapeYDiff="0" Height="138" Id="bO5zmemGAqAAjRDw" MetaModelElement="VO5zmemGAqAAjRDv" Model="VO5zmemGAqAAjRDv" ModelElementNameAlignment="9" Name="C2" PaintThroughLabel="2" RequestRebuild="false" RequestRebuildFromEnd="false" RequestRebuildToEnd="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" Selectable="true" ShowConnectorName="2" To="XsaZmemGAqAAjQtN" ToConnectType="0" ToPinType="1" ToShapeXDiff="0" ToShapeYDiff="0" UseFromShapeCenter="true" UseToShapeCenter="true" Width="158" X="296" Y="161" ZOrder="52">
+<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+<Stroke/>
+</Line>
+<Caption Height="16" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="36" X="350" Y="182"/>
+<Points>
+<Point X="425.0" Y="270.0"/>
+<Point X="396.0" Y="270.0"/>
+<Point X="396.0" Y="191.0"/>
+<Point X="325.0" Y="191.0"/>
+</Points>
+</SysMLBindingConnector>
+<SysMLBindingConnector Background="rgb(122, 207, 245)" ConnectorLabelOrientation="4" ConnectorLineJumps="4" ConnectorStyle="Follow Diagram" CreatorDiagramType="ParametricDiagram" Foreground="rgb(0, 0, 0)" From="v4ctmemGAqAAjQ4t" FromConnectType="0" FromPinType="1" FromShapeXDiff="0" FromShapeYDiff="0" Height="211" Id="0QbzmemGAqAAjREZ" MetaModelElement="_gbzmemGAqAAjREY" Model="_gbzmemGAqAAjREY" ModelElementNameAlignment="9" Name="C3" PaintThroughLabel="2" RequestRebuild="false" RequestRebuildFromEnd="false" RequestRebuildToEnd="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" Selectable="true" ShowConnectorName="2" To="XsaZmemGAqAAjQtN" ToConnectType="0" ToPinType="1" ToShapeXDiff="0" ToShapeYDiff="0" UseFromShapeCenter="true" UseToShapeCenter="true" Width="158" X="296" Y="173" ZOrder="54">
+<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+<Stroke/>
+</Line>
+<Caption Height="16" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="36" X="340" Y="194"/>
+<Points>
+<Point X="425.0" Y="355.0"/>
+<Point X="377.0" Y="355.0"/>
+<Point X="376.0" Y="338.0"/>
+<Point X="377.0" Y="202.0"/>
+<Point X="325.0" Y="202.0"/>
+</Points>
+</SysMLBindingConnector>
+<SysMLBindingConnector Background="rgb(122, 207, 245)" ConnectorLabelOrientation="4" ConnectorLineJumps="4" ConnectorStyle="Follow Diagram" CreatorDiagramType="ParametricDiagram" Foreground="rgb(0, 0, 0)" From="Zl5TmemGAqAAjRBl" FromConnectType="0" FromPinType="1" FromShapeXDiff="0" FromShapeYDiff="0" Height="599" Id="MawLmemGAqAAjRE7" MetaModelElement="fqwLmemGAqAAjRE6" Model="fqwLmemGAqAAjRE6" ModelElementNameAlignment="9" Name="C7" PaintThroughLabel="2" RequestRebuild="false" RequestRebuildFromEnd="false" RequestRebuildToEnd="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" Selectable="true" ShowConnectorName="2" To="XsaZmemGAqAAjQtN" ToConnectType="0" ToPinType="1" ToShapeXDiff="0" ToShapeYDiff="0" UseFromShapeCenter="true" UseToShapeCenter="true" Width="170" X="290" Y="176" ZOrder="56">
+<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+<Stroke/>
+</Line>
+<Caption Height="15" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="35" X="325" Y="244"/>
+<Points>
+<Point X="425.0" Y="739.0"/>
+<Point X="350.0" Y="739.0"/>
+<Point X="350.0" Y="228.0"/>
+<Point X="325.0" Y="228.0"/>
+<Point X="325.0" Y="212.0"/>
+</Points>
+</SysMLBindingConnector>
+<SysMLBindingConnector Background="rgb(122, 207, 245)" ConnectorLabelOrientation="4" ConnectorLineJumps="4" ConnectorStyle="Follow Diagram" CreatorDiagramType="ParametricDiagram" Foreground="rgb(0, 0, 0)" From="Z8pZmemGAqAAjQtt" FromConnectType="0" FromPinType="1" FromShapeXDiff="0" FromShapeYDiff="0" Height="301" Id="QUpLmemGAqAAjRFh" MetaModelElement="bkpLmemGAqAAjRFg" Model="bkpLmemGAqAAjRFg" ModelElementNameAlignment="9" Name="C1" PaintThroughLabel="2" RequestRebuild="false" RequestRebuildFromEnd="false" RequestRebuildToEnd="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" Selectable="true" ShowConnectorName="2" To="B041memGAqAAjQ1s" ToConnectType="0" ToPinType="1" ToShapeXDiff="0" ToShapeYDiff="0" UseFromShapeCenter="true" UseToShapeCenter="true" Width="175" X="294" Y="170" ZOrder="58">
+<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+<Stroke/>
+</Line>
+<Caption Height="15" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="35" X="377" Y="430"/>
+<Points>
+<Point X="434.0" Y="205.0"/>
+<Point X="415.0" Y="206.0"/>
+<Point X="415.0" Y="435.0"/>
+<Point X="329.0" Y="435.0"/>
+<Point X="329.0" Y="424.0"/>
+</Points>
+</SysMLBindingConnector>
+<SysMLBindingConnector Background="rgb(122, 207, 245)" ConnectorLabelOrientation="4" ConnectorLineJumps="4" ConnectorStyle="Follow Diagram" CreatorDiagramType="ParametricDiagram" Foreground="rgb(0, 0, 0)" From="v4ctmemGAqAAjQ4t" FromConnectType="0" FromPinType="1" FromShapeXDiff="0" FromShapeYDiff="0" Height="103" Id="ZdLLmemGAqAAjRF3" MetaModelElement="mdLLmemGAqAAjRF2" Model="mdLLmemGAqAAjRF2" ModelElementNameAlignment="9" Name="C3" PaintThroughLabel="2" RequestRebuild="false" RequestRebuildFromEnd="false" RequestRebuildToEnd="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" Selectable="true" ShowConnectorName="2" To="B041memGAqAAjQ1s" ToConnectType="0" ToPinType="1" ToShapeXDiff="0" ToShapeYDiff="0" UseFromShapeCenter="true" UseToShapeCenter="true" Width="166" X="298" Y="333" ZOrder="60">
+<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+<Stroke/>
+</Line>
+<Caption Height="15" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="35" X="362" Y="378"/>
+<Points>
+<Point X="426.0" Y="371.0"/>
+<Point X="376.0" Y="371.0"/>
+<Point X="376.0" Y="398.0"/>
+<Point X="336.0" Y="398.0"/>
+</Points>
+</SysMLBindingConnector>
+<SysMLBindingConnector Background="rgb(122, 207, 245)" ConnectorLabelOrientation="4" ConnectorLineJumps="4" ConnectorStyle="Follow Diagram" CreatorDiagramType="ParametricDiagram" Foreground="rgb(0, 0, 0)" From="hKWdmemGAqAAjQ6h" FromConnectType="0" FromPinType="1" FromShapeXDiff="0" FromShapeYDiff="0" Height="112" Id="N_YrmemGAqAAjRGf" MetaModelElement="B_YrmemGAqAAjRGe" Model="B_YrmemGAqAAjRGe" ModelElementNameAlignment="9" Name="C4" PaintThroughLabel="2" RequestRebuild="false" RequestRebuildFromEnd="false" RequestRebuildToEnd="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" Selectable="true" ShowConnectorName="2" To="B041memGAqAAjQ1s" ToConnectType="0" ToPinType="1" ToShapeXDiff="0" ToShapeYDiff="0" UseFromShapeCenter="true" UseToShapeCenter="true" Width="178" X="284" Y="385" ZOrder="62">
+<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+<Stroke/>
+</Line>
+<Caption Height="15" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="35" X="367" Y="452"/>
+<Points>
+<Point X="424.0" Y="459.0"/>
+<Point X="323.0" Y="459.0"/>
+<Point X="323.0" Y="423.0"/>
+</Points>
+</SysMLBindingConnector>
+<SysMLBindingConnector Background="rgb(122, 207, 245)" ConnectorLabelOrientation="4" ConnectorLineJumps="4" ConnectorStyle="Follow Diagram" CreatorDiagramType="ParametricDiagram" Foreground="rgb(0, 0, 0)" From="GmuDmemGAqAAjQ9R" FromConnectType="0" FromPinType="1" FromShapeXDiff="0" FromShapeYDiff="0" Height="212" Id="UwsrmemGAqAAjRGr" MetaModelElement="vQsrmemGAqAAjRGq" Model="vQsrmemGAqAAjRGq" ModelElementNameAlignment="9" Name="C5" PaintThroughLabel="2" RequestRebuild="false" RequestRebuildFromEnd="false" RequestRebuildToEnd="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" Selectable="true" ShowConnectorName="2" To="B041memGAqAAjQ1s" ToConnectType="0" ToPinType="1" ToShapeXDiff="0" ToShapeYDiff="0" UseFromShapeCenter="true" UseToShapeCenter="true" Width="183" X="273" Y="392" ZOrder="64">
+<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+<Stroke/>
+</Line>
+<Caption Height="15" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="35" X="290" Y="495"/>
+<Points>
+<Point X="425.0" Y="573.0"/>
+<Point X="304.0" Y="573.0"/>
+<Point X="304.0" Y="423.0"/>
+</Points>
+</SysMLBindingConnector>
+<SysMLBindingConnector Background="rgb(122, 207, 245)" ConnectorLabelOrientation="4" ConnectorLineJumps="4" ConnectorStyle="Follow Diagram" CreatorDiagramType="ParametricDiagram" Foreground="rgb(0, 0, 0)" From="JkrjmemGAqAAjQ_f" FromConnectType="0" FromPinType="1" FromShapeXDiff="0" FromShapeYDiff="0" Height="297" Id="EaRrmemGAqAAjRHJ" MetaModelElement="PqRrmemGAqAAjRHI" Model="PqRrmemGAqAAjRHI" ModelElementNameAlignment="9" Name="C6" PaintThroughLabel="2" RequestRebuild="false" RequestRebuildFromEnd="false" RequestRebuildToEnd="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" Selectable="true" ShowConnectorName="2" To="B041memGAqAAjQ1s" ToConnectType="0" ToPinType="1" ToShapeXDiff="0" ToShapeYDiff="0" UseFromShapeCenter="true" UseToShapeCenter="true" Width="160" X="301" Y="388" ZOrder="66">
+<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+<Stroke/>
+</Line>
+<Caption Height="15" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="35" X="312" Y="517"/>
+<Points>
+<Point X="425.0" Y="650.0"/>
+<Point X="390.0" Y="607.0"/>
+<Point X="337.0" Y="607.0"/>
+<Point X="337.0" Y="585.0"/>
+<Point X="337.0" Y="424.0"/>
+</Points>
+</SysMLBindingConnector>
+<SysMLBindingConnector Background="rgb(122, 207, 245)" ConnectorLabelOrientation="4" ConnectorLineJumps="4" ConnectorStyle="Follow Diagram" CreatorDiagramType="ParametricDiagram" Foreground="rgb(0, 0, 0)" From="hKWdmemGAqAAjQ6h" FromConnectType="0" FromPinType="1" FromShapeXDiff="0" FromShapeYDiff="0" Height="202" Id="p9YbmemGAqAAjRH1" MetaModelElement="G9YbmemGAqAAjRH0" Model="G9YbmemGAqAAjRH0" ModelElementNameAlignment="9" Name="C4" PaintThroughLabel="2" RequestRebuild="false" RequestRebuildFromEnd="false" RequestRebuildToEnd="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" Selectable="true" ShowConnectorName="2" To="kKyNmemGAqAAjQ3v" ToConnectType="0" ToPinType="1" ToShapeXDiff="0" ToShapeYDiff="0" UseFromShapeCenter="true" UseToShapeCenter="true" Width="182" X="291" Y="449" ZOrder="68">
+<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+<Stroke/>
+</Line>
+<Caption Height="15" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="35" X="388" Y="585"/>
+<Points>
+<Point X="435.0" Y="487.0"/>
+<Point X="404.0" Y="487.0"/>
+<Point X="404.0" Y="613.0"/>
+<Point X="329.0" Y="613.0"/>
+</Points>
+</SysMLBindingConnector>
+<SysMLBindingConnector Background="rgb(122, 207, 245)" ConnectorLabelOrientation="4" ConnectorLineJumps="4" ConnectorStyle="Follow Diagram" CreatorDiagramType="ParametricDiagram" Foreground="rgb(0, 0, 0)" From="JkrjmemGAqAAjQ_f" FromConnectType="0" FromPinType="1" FromShapeXDiff="0" FromShapeYDiff="0" Height="117" Id="MaTbmemGAqAAjRIL" MetaModelElement="AaTbmemGAqAAjRIK" Model="AaTbmemGAqAAjRIK" ModelElementNameAlignment="9" Name="C6" PaintThroughLabel="2" RequestRebuild="false" RequestRebuildFromEnd="false" RequestRebuildToEnd="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" Selectable="true" ShowConnectorName="2" To="kKyNmemGAqAAjQ3v" ToConnectType="0" ToPinType="1" ToShapeXDiff="0" ToShapeYDiff="0" UseFromShapeCenter="true" UseToShapeCenter="true" Width="172" X="291" Y="583" ZOrder="70">
+<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+<Stroke/>
+</Line>
+<Caption Height="15" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="35" X="383" Y="656"/>
+<Points>
+<Point X="425.0" Y="662.0"/>
+<Point X="377.0" Y="662.0"/>
+<Point X="377.0" Y="621.0"/>
+<Point X="329.0" Y="621.0"/>
+</Points>
+</SysMLBindingConnector>
+<SysMLBindingConnector Background="rgb(122, 207, 245)" ConnectorLabelOrientation="4" ConnectorLineJumps="4" ConnectorStyle="Follow Diagram" CreatorDiagramType="ParametricDiagram" Foreground="rgb(0, 0, 0)" From="Zl5TmemGAqAAjRBl" FromConnectType="0" FromPinType="1" FromShapeXDiff="0" FromShapeYDiff="0" Height="158" Id="CavbmemGAqAAjRIV" MetaModelElement="IavbmemGAqAAjRIU" Model="IavbmemGAqAAjRIU" ModelElementNameAlignment="9" Name="C7" PaintThroughLabel="2" RequestRebuild="false" RequestRebuildFromEnd="false" RequestRebuildToEnd="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" Selectable="true" ShowConnectorName="2" To="kKyNmemGAqAAjQ3v" ToConnectType="0" ToPinType="1" ToShapeXDiff="0" ToShapeYDiff="0" UseFromShapeCenter="true" UseToShapeCenter="true" Width="175" X="291" Y="603" ZOrder="72">
+<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+<Stroke/>
+</Line>
+<Caption Height="15" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="35" X="367" Y="713"/>
+<Points>
+<Point X="428.0" Y="723.0"/>
+<Point X="428.0" Y="720.0"/>
+<Point X="329.0" Y="720.0"/>
+<Point X="329.0" Y="642.0"/>
+</Points>
+</SysMLBindingConnector>
+</Connectors>
+</ParametricDiagram>
+</Diagrams>
+</Project>
