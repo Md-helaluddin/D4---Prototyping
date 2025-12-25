@@ -182,7 +182,7 @@ String detectColor() {
   return "UNKNOWN";
 }
 
-// ================= YOUR UNCHANGED PART 1 =================
+// ================= Finding Line =================
 
 void waitForLineDetection() {
   Serial.println("Searching for line...");
@@ -200,7 +200,7 @@ void waitForLineDetection() {
   }
 }
 
-// ================= YOUR UNCHANGED PART 2 =================
+// ================= Avoiding Obstacle =================
 
 void handleObstacle() {
 
