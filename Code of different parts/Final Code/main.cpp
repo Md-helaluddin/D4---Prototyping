@@ -243,5 +243,8 @@ void handleObstacle() {
 void pushThroughObstacle() {
   moveForward(100, 100);
   delay(600);
+  moveBackward(100, 100);
+  delay(200);
+  waitForLineDetection();
   stopMotors();
 }
